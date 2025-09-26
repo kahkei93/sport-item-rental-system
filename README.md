@@ -33,16 +33,4 @@ A React Native mobile application that allows users to rent sports equipment sea
 | Profile Screen | History Screen | Confirmation Screen |
 | :---: | :---: | :---: |
 | <a href="https://github.com/user-attachments/assets/b2bf589c-cf70-45e1-af96-70359af0fec0"><img src="https://github.com/user-attachments/assets/b2bf589c-cf70-45e1-af96-70359af0fec0" width="200" alt="Profile Screen"></a> | <a href="https://github.com/user-attachments/assets/814337d5-2962-41d8-b332-b1168468a81e"><img src="https://github.com/user-attachments/assets/814337d5-2962-41d8-b332-b1168468a81e" width="200" alt="History Screen"></a> | <a href="https://github.com/user-attachments/assets/09d0d834-ce86-4b39-b153-1f4af28b5407"><img src="https://github.com/user-attachments/assets/09d0d834-ce86-4b39-b153-1f4af28b5407" width="200" alt="Confirmation Screen"></a> |
-## 🚀 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/kahkei93/sport-item-rental-system.git
-
-# Install dependencies
-npm install
-
-# Run the application
-npx react-native run-android
-# or
-npx react-native run-ios
